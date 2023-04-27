@@ -1,0 +1,15 @@
+D:\C#\LINQprogram\LINQprogram\bin\Debug\net6.0\LINQprogram.exe
+D:\C#\LINQprogram\LINQprogram\bin\Debug\net6.0\LINQprogram.deps.json
+D:\C#\LINQprogram\LINQprogram\bin\Debug\net6.0\LINQprogram.runtimeconfig.json
+D:\C#\LINQprogram\LINQprogram\bin\Debug\net6.0\LINQprogram.dll
+D:\C#\LINQprogram\LINQprogram\bin\Debug\net6.0\LINQprogram.pdb
+D:\C#\LINQprogram\LINQprogram\obj\Debug\net6.0\LINQprogram.csproj.AssemblyReference.cache
+D:\C#\LINQprogram\LINQprogram\obj\Debug\net6.0\LINQprogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LINQprogram\LINQprogram\obj\Debug\net6.0\LINQprogram.AssemblyInfoInputs.cache
+D:\C#\LINQprogram\LINQprogram\obj\Debug\net6.0\LINQprogram.AssemblyInfo.cs
+D:\C#\LINQprogram\LINQprogram\obj\Debug\net6.0\LINQprogram.csproj.CoreCompileInputs.cache
+D:\C#\LINQprogram\LINQprogram\obj\Debug\net6.0\LINQprogram.dll
+D:\C#\LINQprogram\LINQprogram\obj\Debug\net6.0\refint\LINQprogram.dll
+D:\C#\LINQprogram\LINQprogram\obj\Debug\net6.0\LINQprogram.pdb
+D:\C#\LINQprogram\LINQprogram\obj\Debug\net6.0\LINQprogram.genruntimeconfig.cache
+D:\C#\LINQprogram\LINQprogram\obj\Debug\net6.0\ref\LINQprogram.dll
